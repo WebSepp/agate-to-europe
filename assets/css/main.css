@@ -373,6 +373,11 @@ br.clear {
 	padding: 15px;
 }
 
+.conclusion ul cite {
+	font-weight: 800;
+	color: #B79840;
+}
+
 .textbox {
 	text-align: left;
 	margin-top: 2em;
