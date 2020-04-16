@@ -2,8 +2,8 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 @font-face {
 	font-family: "Baltimore Bold";
-	src: url("assets/webfonts/Baltimore.otf");
-	src: url("Baltimore.otf") format("opentype"), url("Baltimore.ttf") format("truetype");
+	src: url("http://masterthesis.sebastian-lange.eu/agate-to-europe/assets/webfonts/Baltimore.otf");
+	src: url("http://masterthesis.sebastian-lange.eu/agate-to-europe/assets/webfonts/Baltimore.otf") format("opentype"), url("http://masterthesis.sebastian-lange.eu/agate-to-europe/assets/webfonts/Baltimore.ttf") format("truetype");
 }
 
 
