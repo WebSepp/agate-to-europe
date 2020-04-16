@@ -511,6 +511,11 @@ br.clear {
 }
 
 
+.alba{
+	color:#0065BD;
+	font-size: 1.5rem;
+}
+
 /* Items (style1) */
 
 .items.style1 {
@@ -2573,6 +2578,14 @@ button.primary:hover,
 	-webkit-flex-grow: 1;
 	-ms-flex-grow: 1;
 	flex-grow: 1;
+}
+
+.melissa{
+	text-align: left;
+	margin-top: 1em;
+	line-height: 2em;
+	font-size: 1rem;
+	padding: 15px;
 }
 
 #header .bottom {
