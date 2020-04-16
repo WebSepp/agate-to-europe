@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cfe67ba-4fe3-4f9c-aa05-fb85de4c3d09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/css/magnific-popup.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/AGATE_next.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/AGATE_next.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/research_information.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/research_information.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/world_banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/world_banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vue_module.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/vue_module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/AGATE_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/AGATE_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/EOSC_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cerif.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dtakademien.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/oaguidelines_modell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/research_information.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/world_banner.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,35 +34,39 @@
         <counts>
           <entry key="css" value="3" />
           <entry key="html" value="1" />
+          <entry key="js" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="3" />
           <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="259" />
-          <entry key="html" value="2581" />
+          <entry key="css" value="262" />
+          <entry key="html" value="2613" />
+          <entry key="js" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="259" />
-          <entry key="HTML" value="2581" />
+          <entry key="CSS" value="262" />
+          <entry key="HTML" value="2613" />
+          <entry key="JavaScript" value="11" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="1010" column="49" selection-start-line="1010" selection-start-column="49" selection-end-line="1010" selection-end-column="49" />
+            <state relative-caret-position="5064">
+              <caret line="944" column="45" selection-start-line="944" selection-start-column="45" selection-end-line="944" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#3;n#div#0;n#div#0;n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -62,11 +74,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/vue_module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="2587" column="18" lean-forward="true" selection-start-line="2587" selection-start-column="18" selection-end-line="2587" selection-end-column="18" />
+            <state relative-caret-position="170">
+              <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,6 +92,9 @@
     <findStrings>
       <find>cite</find>
       <find>melissa</find>
+      <find>style</find>
+      <find>agate</find>
+      <find>banner</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -87,6 +105,7 @@
       <list>
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/js/vue_module.js" />
       </list>
     </option>
   </component>
@@ -129,7 +148,7 @@
               <item name="agate-to-europe" type="b2602c69:ProjectViewProjectNode" />
               <item name="agate-to-europe" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,12 +184,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587037297221</updated>
-      <workItem from="1587037299372" duration="10013000" />
+      <workItem from="1587037299372" duration="11034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10013000" />
+    <option name="totallyTimeSpent" value="11034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="955" extended-state="0" />
@@ -206,17 +225,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="2587" column="18" lean-forward="true" selection-start-line="2587" selection-start-column="18" selection-end-line="2587" selection-end-column="18" />
+        <state relative-caret-position="253">
+          <caret line="2781" column="57" selection-start-line="2781" selection-start-column="57" selection-end-line="2781" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="1010" column="49" selection-start-line="1010" selection-start-column="49" selection-end-line="1010" selection-end-column="49" />
+        <state relative-caret-position="5064">
+          <caret line="944" column="45" selection-start-line="944" selection-start-column="45" selection-end-line="944" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#3;n#div#0;n#div#0;n#section#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/vue_module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>

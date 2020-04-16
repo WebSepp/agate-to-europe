@@ -7,7 +7,7 @@
 var main = new Vue ({
     el: '#main',
     data: {
-        image: 'images/oaguidelines_modell.png',
+        image: 'images/oaguidelines_modell.jpeg',
         datamodelldefaultImage: 'images/DataModells/AGATE_Modell_Alt_Web.png',
         datamodelldefaultTitle: "Altes Datenmodell",
         datamodelldefaultText: "Das alte AGATE Datenmodell umfasste lediglich die Entitäten Projekt, Person und Organisationseinheit.",
