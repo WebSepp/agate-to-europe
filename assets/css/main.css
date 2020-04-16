@@ -1,11 +1,11 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+
 @font-face {
 	font-family: "Baltimore Bold";
-	src: url("http://masterthesis.sebastian-lange.eu/agate-to-europe/assets/webfonts/Baltimore Bold.otf");
-	src: url("http://masterthesis.sebastian-lange.eu/agate-to-europe/assets/webfonts/Baltimore Bold.otf") format("opentype"), url("http://masterthesis.sebastian-lange.eu/agate-to-europe/assets/webfonts/Baltimore Bold.ttf") format("truetype");
+	src: url("webfonts/Baltimore Bold.otf");
+	src: url("webfonts/Baltimore Bold.otf") format("opentype"), url("webfonts/Baltimore Bold.ttf") format("truetype");
 }
-
 
 /*
 	Prologue by HTML5 UP
