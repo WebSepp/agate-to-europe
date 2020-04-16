@@ -3,8 +3,8 @@
 
 @font-face {
 	font-family: "Baltimore Bold";
-	src: url("webfonts/Baltimore Bold.otf");
-	src: url("webfonts/Baltimore Bold.otf") format("opentype"), url("webfonts/Baltimore Bold.ttf") format("truetype");
+	src: url("/assets/webfonts/Baltimore Bold.otf");
+	src: url("/assets/webfonts/Baltimore Bold.otf") format("opentype"), url("/assets/webfonts/Baltimore Bold.ttf") format("truetype");
 }
 
 /*
