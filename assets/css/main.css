@@ -516,6 +516,14 @@ br.clear {
 	font-size: 1.5rem;
 }
 
+.datamodells_big{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.six h3 {
+	margin-bottom: 1em;
+}
 /* Items (style1) */
 
 .items.style1 {
@@ -3135,4 +3143,17 @@ button.primary:hover,
 	#footer .copyright li:first-child {
 		margin-top: 0;
 	}
+
+	.datamodelling{
+		font-size: 0.8rem;
+		line-height: initial;
+	}
+	.datamodelling button{
+		line-height: initial;
+		margin-top: 0.7em;
+		padding: 0 0.4em;
+		font-weight: normal;
+	}
+
+
 }
