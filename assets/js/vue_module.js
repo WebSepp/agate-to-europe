@@ -10,7 +10,7 @@ var main = new Vue ({
         image: 'images/oaguidelines_modell.jpeg',
         datamodelldefaultImage: 'images/DataModells/AGATE_Modell_Alt_Web.png',
         datamodelldefaultTitle: "Altes AGATE Datenmodell",
-        datamodelldefaultText: "Das alte AGATE Datenmodell umfasste lediglich die Entitäten Projekt, Person und Organisationseinheit. Diese sind bereits mit einem global einzigartigem persistenten Identifier versehen und könnten so bereits durch Relationen untereinander Rollen in der Anwendungsdomäne spezifizieren. Beispielsweise die Rolle die eine Person innerhalb eines Projektes oder einer Organisationseinheit innehat. Es besteht keine Verbindung, die es ermöglichen würde Daten aus externen Systemen einzuspeisen und somit den Datensatz anzureichern.",
+        datamodelldefaultText: "Das alte AGATE Datenmodell umfasste lediglich die Entitäten Projekt, Person und Organisationseinheit. Diese sind bereits mit einem global einzigartigem persistenten Identifier versehen und könnten so bereits durch Relationen untereinander Rollen in der Anwendungsdomäne spezifizieren. Diese Art von Relation besteht aufgrund der Datenlage allerdings bisher immer nur ausgehend vom Projekt. Beispielsweise die Rolle die eine Person innerhalb eines Projektes oder einer Organisationseinheit innehat. Es besteht keine Verbindung, die es ermöglichen würde Daten aus externen Systemen einzuspeisen und somit den Datensatz anzureichern.",
         agateentitydefaultTitle: "Neues AGATE Datenmodell mit allen OpenAIRE Elementen",
         agateentitydefaultText: "Die Abbildung zeigt das neue Datenmodell mit den untereinander verlinkten Entitäten und den Elementen, die sie abbilden können.",
         agateentitydefaultImage: 'images/DataModells/All_OpenAIRE_Elements_Web.png',
