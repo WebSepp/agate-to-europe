@@ -940,11 +940,9 @@
             <img :src="overviewElementdefaultImage" class="image fit"></a>
         <div class="abstract">
             <div v-for="overviewElement in overviewElements" :key="overviewElement.overviewElementId" class="entities">
-                <div class="datamodelling">
                 <button @click="updateOverviewElement(overviewElement.overviewElementImage, overviewElement.overviewElementText, overviewElement.overviewElementTitle)">
                     {{ overviewElement.overviewElementType }}
                 </button>
-            </div>
         </div>
     </div>
 </section>
